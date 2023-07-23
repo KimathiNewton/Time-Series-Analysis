@@ -3,3 +3,4 @@ This is a time series project that seeks to predict sales of the Favourita compa
 
 # Steps
 Business Understanding --> Data Understandin --> Data Preprocessing --> Modelling --> Model Evaluation
+                                                                                           # Business Understanding        
